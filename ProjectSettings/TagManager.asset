@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Orange Chip
+    uniqueID: 2657267309
+    locked: 0
+  - name: Black Chip
+    uniqueID: 1875244537
+    locked: 0
+  - name: Blue Chip
+    uniqueID: 702129717
+    locked: 0
+  - name: White Chip
+    uniqueID: 4196728967
+    locked: 0
+  - name: Bet Table Chip
+    uniqueID: 2293645799
+    locked: 0
+  - name: Cards
+    uniqueID: 3151320043
+    locked: 0
+  - name: Fade Screen
+    uniqueID: 1891132025
+    locked: 0
+  - name: Display Card
+    uniqueID: 1115249007
+    locked: 0

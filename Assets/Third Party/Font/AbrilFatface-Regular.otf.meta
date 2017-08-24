@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fa744211489fd2042a5365330e36e8b8
+timeCreated: 1503503029
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Abril Fatface
+  fontNames:
+  - Abril Fatface
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

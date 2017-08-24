@@ -1,7 +1,7 @@
-#Playing Card Assets (52-Cards Deck + Chips)
+## Playing Card Assets (52-Cards Deck + Chips)
 https://opengameart.org/content/playing-card-assets-52-cards-deck-chips
 
-#Music
+## Music
 
 OctoBlues Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 3.0 License
